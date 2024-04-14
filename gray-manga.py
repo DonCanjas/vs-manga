@@ -6,6 +6,11 @@ from vodesfunc.scale import mod_padding
 from vsmlrt import DPIR, DPIRModel, BackendV2
 from lvsfunc import export_frames
 
+#Join 2 single pages into a double page
+#a = BS.source("left_page.jpg")
+#b = BS.source("right_page.jpg")
+#src = core.std.StackHorizontal([a, b]).std.SetFrameProps(_Matrix=6, _Primaries=1, _Transfer=1, _ColorRange=0, _ChromaLocation=1) 
+
 #import gray JPEG
 path = "H:/Set/Path"
 src = BS.source(list(SPath(path).glob("*.jpg"))).std.SetFrameProps(_Matrix=6, _Primaries=1, _Transfer=1, _ColorRange=0) #replace jpg with jpeg if needed
