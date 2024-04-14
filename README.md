@@ -1,5 +1,5 @@
 # vs-manga
-Functions to filter (JPEG) manga using VapourSynth. Best use case would be for digital raws.  
+Scripts (hopefully functions in the future) to filter (JPEG) manga using VapourSynth. Best use case would be for digital raws.  
 [Preview example](https://slow.pics/c/2TDHKCNM)
 
 ## Included Scripts:
