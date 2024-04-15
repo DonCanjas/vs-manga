@@ -15,7 +15,7 @@ Scripts to filter (JPEG) manga using VapourSynth. Best use case would be for dig
 - [vodesfunc](https://github.com/Vodes/vodesfunc/tree/master?tab=readme-ov-file#installation) git latest
 - [fpng](https://github.com/Mikewando/vsfpng) (can install with vsrepo)
 - [vsmlrt](https://github.com/AmusementClub/vs-mlrt) (can install with vsrepo)
-- [BestSource](https://github.com/vapoursynth/bestsource/releases/tag/R1)
+- [BestSource](https://github.com/vapoursynth/bestsource/releases)
 
 ## Usage:
 Open the script, edit the input and output paths (default output path is `script's path+output folder`) and other settings you might want/need to change.  Run the scipt and hope it works.
